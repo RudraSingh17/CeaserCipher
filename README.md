@@ -28,7 +28,7 @@ The project consists of the following files:
 * style.css: The CSS file for styling the user interface.
 * script.js: The JavaScript file containing the implementation of the Caesar cipher algorithm.
 * README.md: The readme file with instructions and information about the project.
-
+ 
 ## Compatibility ##
 This Caesar cipher encryption/decryption tool should work on most modern web browsers that support JavaScript. No additional libraries or frameworks are required.
 
